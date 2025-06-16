@@ -1,3 +1,32 @@
+# Advanced_SQL
+
+[![GitHub stars](https://img.shields.io/github/stars/PrasannaKumar260904/Advanced_SQL?style=social)](https://github.com/PrasannaKumar260904/Advanced_SQL/stargazers)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/PrasannaKumar260904/Advanced_SQL)](https://github.com/PrasannaKumar260904/Advanced_SQL)
+[![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-India-orange)](https://github.com/PrasannaKumar260904)
+## 📚 Table of Contents
+
+1. [Window Functions](#1-window-functions)
+2. [Common Table Expressions (CTE)](#2-common-table-expressions-cte)
+3. [Recursive CTE](#3-recursive-cte)
+4. [Subqueries](#4-subqueries)
+5. [Set Operations](#5-set-operations)
+6. [Pivoting](#6-pivoting)
+7. [JSON Functions](#7-json-functions)
+8. [Advanced Joins](#8-advanced-joins)
+9. [Ranking and Percentiles](#9-ranking-and-percentiles)
+10. [ROLLUP](#10-rollup)
+11. [Temporary Table](#11-temporary-table)
+12. [Execution Plan](#12-execution-plan)
+13. [Triggers](#13-triggers)
+14. [Stored Procedures](#14-stored-procedures)
+15. [Transactions](#15-transactions)
+16. [Error Handling](#16-error-handling)
+17. [Performance Optimization](#17-performance-optimization)
+18. [Materialized Views](#18-materialized-views)
+19. [Dynamic SQL](#19-dynamic-sql)
+20. [Constraints & Data Types](#20-constraints--data-types)
+
 
 # Advanced_SQL
 
