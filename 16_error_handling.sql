@@ -1,0 +1,5 @@
+-- Error Handling: Rollback on exception
+DECLARE EXIT HANDLER FOR SQLEXCEPTION
+BEGIN
+  ROLLBACK;
+END;

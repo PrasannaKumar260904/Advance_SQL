@@ -1,0 +1,5 @@
+-- Performance Optimization Tips
+-- 1. Use indexes on frequently filtered columns
+-- 2. Avoid SELECT *; specify only needed columns
+-- 3. Use LIMIT when querying large datasets
+-- 4. Analyze with EXPLAIN
